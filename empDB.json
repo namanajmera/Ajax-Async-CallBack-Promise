@@ -11,11 +11,6 @@
       "salary": 200000
     },
     {
-      "id": 4,
-      "name": "Mukesh",
-      "salary": 2000000
-    },
-    {
       "name": "Elon Musk",
       "salary": "500000",
       "id": 5
@@ -24,6 +19,21 @@
       "name": "Mark",
       "salary": 3000000,
       "id": 6
+    },
+    {
+      "name": "Naman Ajmera",
+      "salary": 3000000,
+      "id": 8
+    },
+    {
+      "name": "Naman Ajmera",
+      "salary": 3000000,
+      "id": 9
+    },
+    {
+      "name": "Naman Ajmera",
+      "salary": 3000000,
+      "id": 10
     }
   ]
 }
